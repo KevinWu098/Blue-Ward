@@ -1,6 +1,6 @@
 # RankBot
 
-### A simple Discord.py bot written to track my matches and my friend's League of Legends matches.
+### A simple Discord.py bot written with RiotWacher and the Riot Games API to track my matches and my friends' League of Legends matches.
 
 Utilizes Replit's built-in database, a Flask development server, and UpTimeTobot to remain online and always watching 👀 <sub> (for dirty inters) </sub>.
 
