@@ -33,8 +33,7 @@ def showUserTrackerDB():
       return (", ".join(tuple(actualNamesTracked)))
     else:
       return None
-
-
+      
 def showMatchTrackerDB():
   if "matches" in db.keys():
     matchesTracked = list(db["matches"])
