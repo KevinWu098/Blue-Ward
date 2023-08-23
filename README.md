@@ -1,4 +1,4 @@
-# RankBot
+# Blue Ward
 
 ### A simple Discord.py bot written with RiotWatcher and the Riot Games API to track my matches and my friends' League of Legends matches.
 
