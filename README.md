@@ -16,4 +16,4 @@ Whether you're just a busy person or someone who loves to keep track on their ow
 ## Run Blue Ward
 You can run Blue Ward for yourself and your friends by cloning this repository and adding your own Riot Developer Portal API key. 
 
-<sub> Note: This was coded with replit, and uses replit tools like its database, so it would be easiest to use on Replit, but not too difficult to adapt to a DB of your choice. </sub>
+<sub> Note: This was coded with Replit, and uses tools like its database, so it would be easiest to use on Replit, but not too difficult to adapt to a DB of your choice. </sub>
