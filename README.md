@@ -3,6 +3,11 @@ A Discord.py bot written with RiotWatcher and the Riot Games API to track your o
 
 <img width="685" alt="Screenshot 2023-08-31 at 10 06 36 PM" src="https://github.com/KevinWu098/Blue-Ward/assets/100006999/f6c375fa-b4e4-422e-ae8f-8bbec83f168b">
 
+## Built With
+- Python utilizing the Discord.py library
+- Queries the Riot Games API with Asyncio for always up-to-date user information
+- Originally created with Replit, leveraging their built-in database
+
 ## Introduction
 Whether you're just a busy person or someone who loves to keep track on their own (and their friends' 👀) progression, Blue Ward helps you stay on top of recent matches!
 
